@@ -1,5 +1,6 @@
 # shvCallBook
 
+Get HAM Radio Info from www.tele.soumu.go.jp/musen/
 
 # REFERENCES
 総務省 電波利用ホームページ | 無線局等情報検索
