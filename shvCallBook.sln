@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.32804.182
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "shvCallBook", "shvCallBook\shvCallBook\shvCallBook.csproj", "{57C4ED93-458A-4336-8AEB-84DA8CDDBA16}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "shvCallBook.Core", "shvCallBook\shvCallBook.Core\shvCallBook.Core.csproj", "{DECB5CEA-03F4-4B55-9252-F1A701DBAADD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{57C4ED93-458A-4336-8AEB-84DA8CDDBA16}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{57C4ED93-458A-4336-8AEB-84DA8CDDBA16}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{57C4ED93-458A-4336-8AEB-84DA8CDDBA16}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{57C4ED93-458A-4336-8AEB-84DA8CDDBA16}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DECB5CEA-03F4-4B55-9252-F1A701DBAADD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DECB5CEA-03F4-4B55-9252-F1A701DBAADD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DECB5CEA-03F4-4B55-9252-F1A701DBAADD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DECB5CEA-03F4-4B55-9252-F1A701DBAADD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ED76E76B-6D22-492E-99CB-52259191A5B3}
+	EndGlobalSection
+EndGlobal

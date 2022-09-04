@@ -1,0 +1,21 @@
+﻿<!--
+////////////////////////////////////////////////////////////////////////////
+//
+// Epoxy template source code.
+// Write your own copyright and note.
+// (You can use https://github.com/rubicon-oss/LicenseHeaderManager)
+//
+////////////////////////////////////////////////////////////////////////////
+    StartupUri="Views/CallBookWindow.xaml"
+    Startup="App_Startup"
+-->
+
+<Application
+    x:Class="shvCallBook.App"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    >
+    <Application.Resources>
+
+    </Application.Resources>
+</Application>
