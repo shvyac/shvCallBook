@@ -37,4 +37,8 @@
     </None>
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="bin\Release\net6.0-windows\callbook_data%40\" />
+  </ItemGroup>
+
 </Project>

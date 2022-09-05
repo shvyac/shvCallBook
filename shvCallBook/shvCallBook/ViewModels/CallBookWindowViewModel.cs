@@ -353,7 +353,6 @@ namespace shvCallBook.ViewModels
             }
             return gItemJccJcg;
         }
-
         public void SelectCallsignFile()
         {
             var dialog = new Microsoft.Win32.OpenFileDialog();
@@ -612,7 +611,6 @@ namespace shvCallBook.ViewModels
             gItemJccJcg.Sort((a, b) => a.ken_no.CompareTo(b.ken_no));
             return newRadioStation;
         }
-
         public int selectedIndex { get; set; }
         public bool IsEnabledStart { get; private set; }
         public ObservableCollection<CallBookViewModel>? Items { get; set; }
